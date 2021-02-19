@@ -14,3 +14,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My name is Erik Seguinte. I am inquisitive programmer and data scientist interested in transforming data into insights.
+
+### Tech Stack
+- Python
+- Flask
+- FastAPI
+- Tensorflow/Keras
+- Pytorch
+- sklearn
+- QT
+- C++
+- Java
+
+### ⚡ Fun facts
+- I am a podcaster playing TTRPGs for other people to listen to and enjoy. I also edit them!
+- I taught myself python for fun while going to school for Chemistry.
+ 
