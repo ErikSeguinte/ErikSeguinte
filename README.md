@@ -27,6 +27,8 @@ My name is Erik Seguinte. I am inquisitive programmer and data scientist interes
 - QT
 - C++
 - Java
+- AWS
+- Heroku
 
 ### ⚡ Fun facts
 - I am a podcaster playing TTRPGs for other people to listen to and enjoy. I also edit them!
