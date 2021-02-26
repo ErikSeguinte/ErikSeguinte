@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Erik Seguinte. I am inquisitive programmer and data scientist interested in transforming data into insights.
+My name is Erik Seguinte (He/Him). I am inquisitive programmer and data scientist interested in transforming data into insights.
 
 ### Tech Stack
 - Python
@@ -29,8 +29,9 @@ My name is Erik Seguinte. I am inquisitive programmer and data scientist interes
 - Java
 - AWS
 - Heroku
+- SQL
 
 ### ⚡ Fun facts
-- I am a podcaster playing TTRPGs for other people to listen to and enjoy. I also edit them!
+- I am a podcaster playing Tabletop Role-playing gamees for other people to listen to and enjoy. I also edit them!
 - I taught myself python for fun while going to school for Chemistry.
  
